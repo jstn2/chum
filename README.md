@@ -1,2 +1,2 @@
 # chum
-test
+testing my setup 
